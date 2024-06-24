@@ -48,7 +48,6 @@ cd 5G-Physical-Layer-Parameters
 ## Usage
 
 To run the data collection and visualization tool, execute the following command:
-
     ```sh
     python3 25062024gpsgsmstates.py
     ```
