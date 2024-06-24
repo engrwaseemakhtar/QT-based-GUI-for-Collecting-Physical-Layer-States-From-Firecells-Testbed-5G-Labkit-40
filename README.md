@@ -54,7 +54,7 @@ To run the data collection and visualization tool, execute the following command
    python3 25062024gpsgsmstates.py
    ```
         
-# Data Collection
+## Data Collection
 
 The script 25062024gpsgsmstates.py initiates an SSH connection to the RUTX50 router and sends commands to retrieve physical layer parameters. The collected data is stored in a CSV file with the following columns:
 
@@ -69,11 +69,11 @@ The script 25062024gpsgsmstates.py initiates an SSH connection to the RUTX50 rou
 - SINR
 - RSRQ
 
-# CSV Filename
+## CSV Filename
 
 The CSV file is named using the format PHY_TEST_YYYY-MM-DD_HH-MM-SS.csv and is saved in the current directory.
 
-# Graphs and Visualization
+## Graphs and Visualization
 
 The GUI application provides real-time plots of the following parameters:
 
