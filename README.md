@@ -12,7 +12,7 @@ his repository contains scripts and tools for collecting physical layer paramete
 - [Usage](#usage)
 - [Data Collection](#datacollection)
 - [CSV Filename](#csvfilename)
-- [Graphs and Visulaization](#graphsandvisualization)
+- [Visulaization](#visualization)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -73,7 +73,7 @@ The script 25062024gpsgsmstates.py initiates an SSH connection to the RUTX50 rou
 
 The CSV file is named using the format PHY_TEST_YYYY-MM-DD_HH-MM-SS.csv and is saved in the current directory.
 
-## Graphs and Visualization
+## Visualization
 
 The GUI application provides real-time plots of the following parameters:
 
