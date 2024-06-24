@@ -47,13 +47,11 @@ cd 5G-Physical-Layer-Parameters
 
 ## Usage
 
-To run the data collection and visualization tool, execute the following command:
+To run the data collection and visualization tool, execute the following command, This will start the graphical user interface (GUI) for the application. The GUI allows you to start and stop the data collection process and visualize the collected data in real-time.
     ```sh
     python3 25062024gpsgsmstates.py
     ```
-    
-    This will start the graphical user interface (GUI) for the application. The GUI allows you to start and stop the data collection process and visualize the collected data in real-time.
-    
+        
 # Data Collection
 
 The script 25062024gpsgsmstates.py initiates an SSH connection to the RUTX50 router and sends commands to retrieve physical layer parameters. The collected data is stored in a CSV file with the following columns:
