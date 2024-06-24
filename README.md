@@ -38,7 +38,9 @@ Instructions for setting up the environment and installing the required packages
 1. Clone the repository:
     ```sh
     git clone https://github.com/yourusername/5G-Physical-Layer-Parameters.git
-cd 5G-Physical-Layer-Parameters
+    ```
+    ```sh
+    cd 5G-Physical-Layer-Parameters
     ```
 
 3. Install the required packages:
