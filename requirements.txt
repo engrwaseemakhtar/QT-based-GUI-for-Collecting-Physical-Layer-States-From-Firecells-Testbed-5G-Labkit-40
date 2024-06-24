@@ -1,0 +1,4 @@
+paramiko==2.10.0
+matplotlib==3.5.3
+PyQt5==5.15.6
+
