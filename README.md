@@ -37,11 +37,11 @@ Instructions for setting up the environment and installing the required packages
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/5G-Physical-Layer-Parameters.git
+    git clone https://github.com/engrwaseemakhtar/QT-based-GUI-for-Collecting-Physical-Layer-States-From-Firecells-Testbed-5G-Labkit-40.git
     ```
 2. Go to the directory:    
     ```sh
-    cd 5G-Physical-Layer-Parameters
+    cd QT-based-GUI-for-Collecting-Physical-Layer-States-From-Firecells-Testbed-5G-Labkit-40
     ```
 
 3. Install the required packages:
