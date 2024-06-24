@@ -103,6 +103,12 @@ We welcome contributions from the community. To contribute:
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
+## Useful links
+
+Here are some useful links related to the project
+
+[1] https://wiki.teltonika-networks.com/view/Command_Line_Interfaces#Linux
+
 
 ## Contact
 
