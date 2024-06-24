@@ -39,6 +39,7 @@ Instructions for setting up the environment and installing the required packages
     ```sh
     git clone https://github.com/yourusername/5G-Physical-Layer-Parameters.git
     ```
+2. Go to the directory:    
     ```sh
     cd 5G-Physical-Layer-Parameters
     ```
