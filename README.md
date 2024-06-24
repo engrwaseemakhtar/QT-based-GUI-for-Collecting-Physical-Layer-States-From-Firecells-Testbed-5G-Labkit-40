@@ -94,6 +94,11 @@ We welcome contributions from the community. To contribute:
 - Make your changes and test them thoroughly.
 - Submit a pull request with a detailed description of your changes.
 
+## GUI Screenshot
+
+![RSSI, RSRP, RSRQ, and SINR of the 5G-NR signal received at Teltonika UE at a distance of 2m from Firecell's Labkit 40 gNB](Screenshot-from-2024-06-24-16-50-54.png)
+
+
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
