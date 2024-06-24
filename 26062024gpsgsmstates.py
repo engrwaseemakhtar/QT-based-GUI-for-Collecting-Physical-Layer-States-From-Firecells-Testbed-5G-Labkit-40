@@ -151,12 +151,12 @@ class App(QWidget):
 
         # Title
         title_label = QLabel("OAI Research & Development - Communication Systems and Networks (CSN) \n Mid Sweden University (MIUN)")
-        title_label.setAlignment(Qt.AlignLeft)
+        title_label.setAlignment(Qt.AlignCenter)
         title_label.setStyleSheet("background-color: lightblue; font-weight: bold; font-size: 16pt;")
 
-        # Add logo and title to title_layout
-        title_layout.addWidget(logo_label)
-        title_layout.addWidget(title_label)
+        # Add logo and title to title_layout with stretch factors
+        title_layout.addWidget(logo_label, 1)  # 20% width
+        title_layout.addWidget(title_label, 4)  # 80% width
 
         # Set the title_layout widget
         title_widget = QWidget()
@@ -193,10 +193,12 @@ class App(QWidget):
 
         self.setLayout(main_layout)
 
+        # Adjust window size
+        self.showMaximized()  # Maximize the main window
+
 def main():
     app = QApplication(sys.argv)
     ex = App()
-    ex.show()
     sys.exit(app.exec_())
 
 if __name__ == "__main__":
