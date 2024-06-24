@@ -8,9 +8,9 @@ his repository contains scripts and tools for collecting physical layer paramete
 
 - [Introduction](#introduction)
 - [Requirements](#requirements)
-- [Setup and Installation](#setupandinstallation)
+- [Setup and Installation](#installation)
 - [Usage](#usage)
-- [Data Collection](#datacollection)
+- [Data Collection](#data collection)
 - [Graphs and Visulaization](#graphs)
 - [Contributing](#contributing)
 - [License](#license)
